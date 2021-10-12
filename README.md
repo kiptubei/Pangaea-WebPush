@@ -82,6 +82,9 @@ Start by:
 - Push your branch up to your forked repository
 - Open a Pull Request with a detailed description to the development(or master if not available) branch of the original project for a review
 
+## TO-DO
+- Create a docker image of this project to make it easier to run...
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
